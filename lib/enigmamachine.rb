@@ -17,7 +17,7 @@ require 'em-http-request'
 #
 require File.dirname(__FILE__) +  '/ext/partials'
 require File.dirname(__FILE__) +  '/ext/array_ext'
-
+require File.dirname(__FILE__) +  '/ext/attribute_accessors'
 # Enigma code
 #
 require File.dirname(__FILE__) + '/enigmamachine'

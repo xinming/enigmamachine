@@ -65,6 +65,7 @@ Gem::Specification.new do |s|
      "lib/enigmamachine/views/videos/new.erb",
      "lib/enigmamachine/views/videos/video.erb",
      "lib/ext/array_ext.rb",
+     "lib/ext/attribute_accessors.rb",
      "lib/ext/partials.rb",
      "lib/generators/config.yml",
      "test/helper.rb",
